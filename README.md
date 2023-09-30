@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-[![An image of @rajavardhancoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajavardhancoder)](https://holopin.io/@rajavardhancoder)
 <!--
 **RajaVardhan-coder/RajaVardhan-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
